@@ -114,6 +114,6 @@ def strategy_iteration():
     sf.draw(reward_map,strategy,"best_strategy_for_strategy_iteration")
 
 
-# strategy_iteration()
-value_iteration(10000)
+strategy_iteration()
+# value_iteration(1000)
                     
