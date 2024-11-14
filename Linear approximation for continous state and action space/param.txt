@@ -1,0 +1,13 @@
+szer_park = 8.6
+gleb_park = 3.0
+szer_uli = 7
+dl_uli = 26
+szer_auta = 2.3
+dl_auta = 5.2
+odl_osi_prz = 1.6
+odl_osi_tyl = 0.45
+dt = 0.1
+Vmod = 2.0
+max_kat = 0.7853981633974483
+park_boczne = 1
+liczba_krokow_maks = 500

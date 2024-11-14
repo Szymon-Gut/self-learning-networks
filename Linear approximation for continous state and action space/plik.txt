@@ -1,0 +1,6 @@
+wczytaj_historie: Odczytano5 epizodow
+wczytano historie sterowania
+po wczytaniu parametrow np. szer_park = 8.6
+wczytaj_historie: Odczytano5 epizodow
+wczytaj_historie: Odczytano5 epizodow
+wczytaj_historie: Odczytano5 epizodow
